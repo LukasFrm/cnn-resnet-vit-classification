@@ -5,3 +5,6 @@ __pycache__/
 
 # Downloaded Stanford Dogs dataset (keep locally).
 data/stanford-dogs/
+
+# Locally generated model checkpoints.
+checkpoints/
