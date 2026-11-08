@@ -1,0 +1,10 @@
+{
+  "model": "BaselineCNN",
+  "dataset": "Stanford Dogs",
+  "split": "validation",
+  "checkpoint_epoch": 15,
+  "samples": 2400,
+  "top1_accuracy": 0.12083333333333333,
+  "top5_accuracy": 0.34375,
+  "macro_f1": 0.10408487027007286
+}
