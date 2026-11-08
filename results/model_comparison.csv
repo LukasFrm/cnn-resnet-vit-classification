@@ -1,0 +1,3 @@
+Model,Initialization,Epochs,Best checkpoint epoch,Top-1 accuracy,Top-5 accuracy,Macro-F1
+Baseline CNN,Random,15,15,0.1208,0.3438,0.1041
+ResNet-50,ImageNet pretrained,10,8,0.8296,0.9812,0.8273
