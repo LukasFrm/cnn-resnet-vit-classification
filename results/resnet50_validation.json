@@ -1,0 +1,9 @@
+{
+  "model": "ResNet50",
+  "split": "validation",
+  "checkpoint_epoch": 8,
+  "samples": 2400,
+  "top1_accuracy": 0.8295833333333333,
+  "top5_accuracy": 0.98125,
+  "macro_f1": 0.8272661198419579
+}
